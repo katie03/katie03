@@ -1,4 +1,6 @@
-### Hi there 👋
+### 
+
+📫 Feel free to reach out to me at kc3342@columbia.edu! 
 
 <!--
 **katie03/katie03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
