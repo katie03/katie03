@@ -1,9 +1,9 @@
 ### 
-*👋 Hi! I'm @katie03, an incoming sophomore at Columbia University majoring in computer science. 
-*🤔 I'm interested in the fields of ML/AI, data science, & human-computer interaction. 
-*🌱 I am currently a data science intern at AnChain.AI & software engineer at Columbia Daily Spectator.  
-*👀 I'm looking for summer 2023 software/tech internships. 
-*📫 How to reach me: kc3342@columbia.edu  
+"*"👋 Hi! I'm @katie03, an incoming sophomore at Columbia University majoring in computer science. 
+"*"🤔 I'm interested in the fields of ML/AI, data science, & human-computer interaction. 
+"*"🌱 I am currently a data science intern at AnChain.AI & software engineer at Columbia Daily Spectator.  
+"*"👀 I'm looking for summer 2023 software/tech internships. 
+"*"📫 How to reach me: kc3342@columbia.edu  
 
 <!--
 **katie03/katie03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
