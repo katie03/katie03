@@ -1,4 +1,4 @@
-- 👋 Hi! I'm @katie03, an incoming sophomore at Columbia University majoring in computer science. 
+- 👋 Hi! I'm @katie03, a sophomore at Columbia University majoring in computer science. 
 - 🤔 I'm interested in the fields of ML/AI, data science, & human-computer interaction. 
 - 🌱 I am currently a data science intern at AnChain.AI & software engineer at Columbia Daily Spectator.  
 - 👀 I'm looking for summer 2023 software/tech internships. 
