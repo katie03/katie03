@@ -1,7 +1,7 @@
-- 👋 Hi! I'm @katie03, a sophomore at Columbia University majoring in computer science. 
-- 🤔 I'm interested in the fields of ML/AI, data science, & human-computer interaction. 
-- 🌱 I am currently a software engineer at Spectator Publishing Company and a data science intern at AnChain.AI.  
-- 👀 I'm looking for summer 2023 SWE internships. 
+- 👋 Hi! I'm @katie03, an incoming junior at Columbia University majoring in computer science and minoring in statistics. 
+- 🤔 I'm interested in the fields of AI/ML, data science, & human-computer interaction. 
+- 🌱 I am currently a software engineer intern at Intuit and was previously a data science intern at AnChain.AI.  
+- 👀 I'm looking for summer 2024 SWE internships. 
 - 📫 How to reach me: kc3342@columbia.edu  
 ### 
 
