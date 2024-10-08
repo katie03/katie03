@@ -1,7 +1,6 @@
-- 👋 Hi! I'm @katie03, an incoming junior at Columbia University majoring in computer science and minoring in statistics. 
-- 🤔 I'm interested in the fields of AI/ML, data science, & human-computer interaction. 
-- 🌱 I am currently a software engineer intern at Intuit and was previously a data science intern at AnChain.AI.  
-- 👀 I'm looking for summer 2024 SWE internships. 
+- 👋 Hi! I'm @katie03, a current senior at Columbia University majoring in computer science and minoring in statistics. 
+- 🤔 I'm interested in the fields of AI/ML, data engineering, & human-computer interaction. 
+- 🌱 I was previously a software engineering intern at Datadog and Intuit. 
 - 📫 How to reach me: kc3342@columbia.edu  
 ### 
 
